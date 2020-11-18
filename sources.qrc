@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="img">
+    <file>prod2.svg</file>
+    <file>prod1.svg</file>
+    <file>stats.png</file>
+    <file>statistics.svg</file>
+    <file>icons8-sign-out-100.png</file>
+    <file>profile.svg</file>
+    <file>option.svg</file>
+    <file>avatar3.svg</file>
+    <file>boxes2.svg</file>
+    <file>boxes1.svg</file>
+    <file>avatar2.svg</file>
+    <file>20035.jpg</file>
+    <file>avatar.svg</file>
+  </qresource>
+</RCC>
