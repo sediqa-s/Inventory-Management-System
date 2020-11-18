@@ -1,2 +1,2 @@
 # Inventory-Management-System
-An Inventory System developed using Python
+An Inventory System developed using Python and Pyqt5
